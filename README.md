@@ -23,7 +23,7 @@ Développement d'un site web pour la présentation des voitures disponibles sur 
 
 **Démonstration des images :**
 
-Voici une démonstration des images de voiture :
+Voici une petite démonstration :
 
 ![Image 1](1.png)
 ![Image 2](2.png)
